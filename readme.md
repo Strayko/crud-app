@@ -1,10 +1,11 @@
+<h1>Restful Routes</h1>
 <table>
-    <thead>
+    <tr>
         <th>name</th>
         <th>url</th>
         <th>verb</th>
         <th>desc</th>
-    </thead>
+    </tr>
     <tr>
         <td>INDEX</td>
         <td>/campground</td>
